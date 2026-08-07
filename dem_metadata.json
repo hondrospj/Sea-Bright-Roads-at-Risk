@@ -1,0 +1,44 @@
+{
+  "name": "Roads at Risk - Sea Bright DEM",
+  "source": "USGS 3DEP Bare Earth DEM Dynamic ImageServer",
+  "sourceUrl": "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+  "sourceDescription": "USGS 3D Elevation Program (3DEP) Bare Earth DEM Dynamic service; service metadata says data available as of 2026-07-20; checked 2026-08-07.",
+  "downloadedAt": "2026-08-07",
+  "processing": "Exported from USGS 3DEP at borough extent, masked to the Sea Bright boundary, resampled to 1.524 m / 5 ft pixels, compressed as Cloud Optimized GeoTIFF.",
+  "horizontalCrs": "EPSG:3857",
+  "verticalUnits": "meters",
+  "displayElevationUnits": "feet",
+  "pixelSizeMeters": 1.524,
+  "pixelSizeFeet": 4.99999999998,
+  "width": 1442,
+  "height": 5139,
+  "nodata": -999999,
+  "minMeters": -1.62,
+  "maxMeters": 12.398,
+  "meanMeters": 0.739,
+  "stdDevMeters": 1.777,
+  "minFeet": -5.314960629900001,
+  "maxFeet": 40.67585301821,
+  "webMercatorBounds": [
+    -8236648.224518,
+    4916328.968046,
+    -8234450.616518,
+    4924160.804046
+  ],
+  "leafletBounds": [
+    [
+      40.3458644,
+      -73.9910699
+    ],
+    [
+      40.3994542,
+      -73.971331
+    ]
+  ],
+  "files": {
+    "demCog": "sea_bright_dem_5ft_cog.tif",
+    "hillshadeCog": "sea_bright_hillshade_cog.tif",
+    "hillshadePng": "sea_bright_hillshade.png",
+    "boundaryGeojson": "sea_bright_boundary.geojson"
+  }
+}
