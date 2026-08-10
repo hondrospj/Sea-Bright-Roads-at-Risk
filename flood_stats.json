@@ -1,6 +1,6 @@
 {
   "schema": "roads-at-risk-flood-stats-v2",
-  "generatedAt": "2026-08-07T13:50:09.092Z",
+  "generatedAt": "2026-08-10T20:27:22.263Z",
   "gaugeName": "Sea Bright",
   "station": {
     "usgsGaugeId": "01407600",
@@ -11,30 +11,30 @@
   },
   "archive": {
     "startDate": "2007-10-01",
-    "endDate": "2026-08-07",
-    "days": 6049,
-    "years": 16.56,
+    "endDate": "2026-08-09",
+    "days": 6018,
+    "years": 16.48,
     "classificationCounts": {
-      "none": 5352,
-      "minor": 623,
+      "none": 5326,
+      "minor": 618,
       "moderate": 68,
       "major": 6
     }
   },
   "tideModel": {
-    "highTideCount": 11691,
+    "highTideCount": 11635,
     "drawsPerYear": 706,
     "predictionRows": 300,
-    "trendFtPerYear": 0.01404199,
+    "trendFtPerYear": 0.00326925,
     "trendSource": {
-      "station": "8531680",
-      "source": "NOAA Sandy Hook linear relative mean sea-level trend",
-      "datum": "MSL",
-      "trendMethod": "NOAA_COOPS_linear_relative_MSL_trend",
-      "monthlyPoints": null,
-      "firstMonth": null,
-      "lastMonth": null,
-      "rawSlopeFtPerYear": 0.01404199
+      "station": "01407600",
+      "source": "Sea Bright observed hourly monthly means",
+      "datum": "NAVD88",
+      "trendMethod": "monthly_mean_linear_regression",
+      "monthlyPoints": 224,
+      "firstMonth": "2007-10",
+      "lastMonth": "2026-08",
+      "rawSlopeFtPerYear": 0.00326925
     }
   },
   "datum": {
@@ -658,7 +658,6 @@
     1.5,
     1.5,
     1.5,
-    1.5,
     1.51,
     1.51,
     1.51,
@@ -929,6 +928,7 @@
     1.68,
     1.68,
     1.68,
+    1.68,
     1.69,
     1.69,
     1.69,
@@ -1739,7 +1739,6 @@
     1.98,
     1.98,
     1.98,
-    1.98,
     1.99,
     1.99,
     1.99,
@@ -1771,7 +1770,6 @@
     1.99,
     1.99,
     1.99,
-    2,
     2,
     2,
     2,
@@ -2557,7 +2555,6 @@
     2.19,
     2.19,
     2.19,
-    2.19,
     2.2,
     2.2,
     2.2,
@@ -2694,7 +2691,6 @@
     2.22,
     2.22,
     2.22,
-    2.23,
     2.23,
     2.23,
     2.23,
@@ -2899,7 +2895,6 @@
     2.27,
     2.27,
     2.27,
-    2.27,
     2.28,
     2.28,
     2.28,
@@ -2983,7 +2978,6 @@
     2.29,
     2.29,
     2.29,
-    2.29,
     2.3,
     2.3,
     2.3,
@@ -3031,8 +3025,6 @@
     2.3,
     2.3,
     2.3,
-    2.3,
-    2.31,
     2.31,
     2.31,
     2.31,
@@ -3232,7 +3224,6 @@
     2.35,
     2.35,
     2.35,
-    2.36,
     2.36,
     2.36,
     2.36,
@@ -3447,7 +3438,6 @@
     2.4,
     2.4,
     2.4,
-    2.4,
     2.41,
     2.41,
     2.41,
@@ -3489,6 +3479,7 @@
     2.41,
     2.41,
     2.41,
+    2.42,
     2.42,
     2.42,
     2.42,
@@ -3653,7 +3644,6 @@
     2.45,
     2.45,
     2.45,
-    2.46,
     2.46,
     2.46,
     2.46,
@@ -3810,7 +3800,6 @@
     2.49,
     2.49,
     2.49,
-    2.49,
     2.5,
     2.5,
     2.5,
@@ -3929,7 +3918,6 @@
     2.52,
     2.52,
     2.52,
-    2.53,
     2.53,
     2.53,
     2.53,
@@ -4113,8 +4101,6 @@
     2.57,
     2.57,
     2.57,
-    2.57,
-    2.58,
     2.58,
     2.58,
     2.58,
@@ -4219,7 +4205,6 @@
     2.6,
     2.6,
     2.6,
-    2.6,
     2.61,
     2.61,
     2.61,
@@ -4413,7 +4398,7 @@
     2.65,
     2.65,
     2.65,
-    2.65,
+    2.66,
     2.66,
     2.66,
     2.66,
@@ -4642,7 +4627,6 @@
     2.72,
     2.72,
     2.72,
-    2.72,
     2.73,
     2.73,
     2.73,
@@ -4738,7 +4722,7 @@
     2.75,
     2.75,
     2.75,
-    2.75,
+    2.76,
     2.76,
     2.76,
     2.76,
@@ -4795,9 +4779,6 @@
     2.77,
     2.77,
     2.77,
-    2.77,
-    2.78,
-    2.78,
     2.78,
     2.78,
     2.78,
@@ -5251,8 +5232,6 @@
     2.94,
     2.94,
     2.94,
-    2.94,
-    2.95,
     2.95,
     2.95,
     2.95,
@@ -5305,7 +5284,6 @@
     2.97,
     2.97,
     2.97,
-    2.97,
     2.98,
     2.98,
     2.98,
@@ -5321,7 +5299,6 @@
     2.98,
     2.98,
     2.98,
-    2.98,
     2.99,
     2.99,
     2.99,
@@ -5340,7 +5317,6 @@
     2.99,
     2.99,
     2.99,
-    3,
     3,
     3,
     3,
@@ -5463,8 +5439,6 @@
     3.05,
     3.05,
     3.05,
-    3.05,
-    3.06,
     3.06,
     3.06,
     3.06,
@@ -5532,8 +5506,6 @@
     3.09,
     3.09,
     3.09,
-    3.09,
-    3.1,
     3.1,
     3.1,
     3.1,
@@ -5634,7 +5606,6 @@
     3.16,
     3.16,
     3.16,
-    3.17,
     3.17,
     3.17,
     3.17,
@@ -5765,7 +5736,6 @@
     3.28,
     3.28,
     3.28,
-    3.28,
     3.29,
     3.29,
     3.29,
@@ -5780,7 +5750,6 @@
     3.29,
     3.29,
     3.29,
-    3.3,
     3.3,
     3.3,
     3.3,
@@ -42244,206 +42213,8 @@
     },
     {
       "date": "2026-06-29",
-      "peakNavd88Ft": 2.46,
-      "peakMllwFt": 4.59,
-      "classification": "none"
-    },
-    {
-      "date": "2026-06-30",
-      "peakNavd88Ft": 2.49,
-      "peakMllwFt": 4.62,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-01",
-      "peakNavd88Ft": 2.3,
-      "peakMllwFt": 4.43,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-02",
-      "peakNavd88Ft": 2.19,
-      "peakMllwFt": 4.32,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-03",
-      "peakNavd88Ft": 2.23,
-      "peakMllwFt": 4.36,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-04",
-      "peakNavd88Ft": 2.29,
-      "peakMllwFt": 4.42,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-05",
-      "peakNavd88Ft": 2.4,
-      "peakMllwFt": 4.53,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-06",
-      "peakNavd88Ft": 2.95,
-      "peakMllwFt": 5.08,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-07",
-      "peakNavd88Ft": 3.06,
-      "peakMllwFt": 5.19,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-08",
-      "peakNavd88Ft": 2.58,
-      "peakMllwFt": 4.71,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-09",
-      "peakNavd88Ft": 2.77,
-      "peakMllwFt": 4.9,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-10",
-      "peakNavd88Ft": 2.98,
-      "peakMllwFt": 5.11,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-11",
-      "peakNavd88Ft": 3.28,
-      "peakMllwFt": 5.41,
-      "classification": "minor"
-    },
-    {
-      "date": "2026-07-12",
-      "peakNavd88Ft": 3.09,
-      "peakMllwFt": 5.22,
-      "classification": "minor"
-    },
-    {
-      "date": "2026-07-13",
-      "peakNavd88Ft": 3.1,
-      "peakMllwFt": 5.23,
-      "classification": "minor"
-    },
-    {
-      "date": "2026-07-14",
-      "peakNavd88Ft": 2.78,
-      "peakMllwFt": 4.91,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-15",
-      "peakNavd88Ft": 2.94,
-      "peakMllwFt": 5.07,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-16",
-      "peakNavd88Ft": 3.05,
-      "peakMllwFt": 5.18,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-17",
-      "peakNavd88Ft": 2.97,
-      "peakMllwFt": 5.1,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-18",
-      "peakNavd88Ft": 2.72,
-      "peakMllwFt": 4.85,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-19",
-      "peakNavd88Ft": 2.31,
-      "peakMllwFt": 4.44,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-20",
-      "peakNavd88Ft": 2.27,
-      "peakMllwFt": 4.4,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-21",
-      "peakNavd88Ft": 2.65,
-      "peakMllwFt": 4.78,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-22",
-      "peakNavd88Ft": 2.36,
-      "peakMllwFt": 4.49,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-23",
-      "peakNavd88Ft": 1.98,
-      "peakMllwFt": 4.11,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-24",
-      "peakNavd88Ft": 2,
-      "peakMllwFt": 4.13,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-25",
-      "peakNavd88Ft": 2.53,
-      "peakMllwFt": 4.66,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-26",
-      "peakNavd88Ft": 2.6,
-      "peakMllwFt": 4.73,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-27",
-      "peakNavd88Ft": 2.78,
-      "peakMllwFt": 4.91,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-28",
-      "peakNavd88Ft": 3,
-      "peakMllwFt": 5.13,
-      "classification": "none"
-    },
-    {
-      "date": "2026-07-29",
-      "peakNavd88Ft": 3.3,
-      "peakMllwFt": 5.43,
-      "classification": "minor"
-    },
-    {
-      "date": "2026-07-30",
-      "peakNavd88Ft": 3.17,
-      "peakMllwFt": 5.3,
-      "classification": "minor"
-    },
-    {
-      "date": "2026-07-31",
-      "peakNavd88Ft": 2.75,
-      "peakMllwFt": 4.88,
-      "classification": "none"
-    },
-    {
-      "date": "2026-08-01",
-      "peakNavd88Ft": 2.57,
-      "peakMllwFt": 4.7,
+      "peakNavd88Ft": 1.68,
+      "peakMllwFt": 3.81,
       "classification": "none"
     },
     {
@@ -42478,8 +42249,20 @@
     },
     {
       "date": "2026-08-07",
-      "peakNavd88Ft": 1.5,
-      "peakMllwFt": 3.63,
+      "peakNavd88Ft": 2.42,
+      "peakMllwFt": 4.55,
+      "classification": "none"
+    },
+    {
+      "date": "2026-08-08",
+      "peakNavd88Ft": 2.66,
+      "peakMllwFt": 4.79,
+      "classification": "none"
+    },
+    {
+      "date": "2026-08-09",
+      "peakNavd88Ft": 2.76,
+      "peakMllwFt": 4.89,
       "classification": "none"
     }
   ]
